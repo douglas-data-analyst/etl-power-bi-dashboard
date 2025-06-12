@@ -1,0 +1,13 @@
+pandas==1.5.3
+numpy==1.24.3
+matplotlib==3.7.1
+seaborn==0.12.2
+jupyter==1.0.0
+notebook==6.5.4
+ipykernel==6.22.0
+sqlalchemy==2.0.15
+pyodbc==4.0.39
+openpyxl==3.1.2
+xlrd==2.0.1
+pyarrow==12.0.0
+fastparquet==2023.4.0
