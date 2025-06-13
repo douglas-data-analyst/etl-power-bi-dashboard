@@ -1,0 +1,101 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state,id
+cust_1,uniq_1,97244,Rio de Janeiro,DF,cust_1
+cust_2,uniq_2,37578,São Paulo,RS,cust_2
+cust_3,uniq_3,43294,Rio de Janeiro,SP,cust_3
+cust_4,uniq_4,49256,Porto Alegre,SP,cust_4
+cust_5,uniq_5,41332,São Paulo,RJ,cust_5
+cust_6,uniq_6,61175,Brasília,RJ,cust_6
+cust_7,uniq_7,65484,Porto Alegre,RJ,cust_7
+cust_8,uniq_8,63152,Porto Alegre,SP,cust_8
+cust_9,uniq_9,29107,São Paulo,SP,cust_9
+cust_10,uniq_10,12991,Porto Alegre,RJ,cust_10
+cust_11,uniq_11,38828,Belo Horizonte,SP,cust_11
+cust_12,uniq_12,96434,Brasília,SP,cust_12
+cust_13,uniq_13,25223,Rio de Janeiro,SP,cust_13
+cust_14,uniq_14,71581,São Paulo,DF,cust_14
+cust_15,uniq_15,20298,São Paulo,SP,cust_15
+cust_16,uniq_16,96387,Belo Horizonte,DF,cust_16
+cust_17,uniq_17,89828,Brasília,RJ,cust_17
+cust_18,uniq_18,35828,Belo Horizonte,RJ,cust_18
+cust_19,uniq_19,92017,Rio de Janeiro,SP,cust_19
+cust_20,uniq_20,39688,São Paulo,DF,cust_20
+cust_21,uniq_21,50701,Rio de Janeiro,SP,cust_21
+cust_22,uniq_22,39291,Brasília,MG,cust_22
+cust_23,uniq_23,56964,São Paulo,DF,cust_23
+cust_24,uniq_24,69550,Brasília,MG,cust_24
+cust_25,uniq_25,14355,Porto Alegre,RS,cust_25
+cust_26,uniq_26,66633,Rio de Janeiro,MG,cust_26
+cust_27,uniq_27,24295,Rio de Janeiro,RJ,cust_27
+cust_28,uniq_28,72370,Brasília,RJ,cust_28
+cust_29,uniq_29,48938,Porto Alegre,RJ,cust_29
+cust_30,uniq_30,65659,Rio de Janeiro,SP,cust_30
+cust_31,uniq_31,36158,Porto Alegre,RS,cust_31
+cust_32,uniq_32,47598,Porto Alegre,MG,cust_32
+cust_33,uniq_33,48296,Rio de Janeiro,MG,cust_33
+cust_34,uniq_34,57585,Rio de Janeiro,RS,cust_34
+cust_35,uniq_35,12690,Brasília,MG,cust_35
+cust_36,uniq_36,98252,São Paulo,MG,cust_36
+cust_37,uniq_37,75869,Porto Alegre,RJ,cust_37
+cust_38,uniq_38,61167,Porto Alegre,RJ,cust_38
+cust_39,uniq_39,30212,Brasília,RS,cust_39
+cust_40,uniq_40,71071,Rio de Janeiro,RJ,cust_40
+cust_41,uniq_41,15854,Brasília,RJ,cust_41
+cust_42,uniq_42,88708,São Paulo,RJ,cust_42
+cust_43,uniq_43,98605,São Paulo,SP,cust_43
+cust_44,uniq_44,81224,Porto Alegre,DF,cust_44
+cust_45,uniq_45,36631,Porto Alegre,DF,cust_45
+cust_46,uniq_46,22239,Porto Alegre,RS,cust_46
+cust_47,uniq_47,64297,Rio de Janeiro,DF,cust_47
+cust_48,uniq_48,70498,Belo Horizonte,RS,cust_48
+cust_49,uniq_49,16569,Belo Horizonte,RJ,cust_49
+cust_50,uniq_50,81298,São Paulo,SP,cust_50
+cust_51,uniq_51,48527,São Paulo,SP,cust_51
+cust_52,uniq_52,89331,Rio de Janeiro,MG,cust_52
+cust_53,uniq_53,88305,São Paulo,SP,cust_53
+cust_54,uniq_54,57750,Brasília,RJ,cust_54
+cust_55,uniq_55,10967,Brasília,DF,cust_55
+cust_56,uniq_56,40267,Porto Alegre,RS,cust_56
+cust_57,uniq_57,94339,Brasília,SP,cust_57
+cust_58,uniq_58,14601,Porto Alegre,RS,cust_58
+cust_59,uniq_59,36964,São Paulo,RS,cust_59
+cust_60,uniq_60,57838,Belo Horizonte,MG,cust_60
+cust_61,uniq_61,99252,Rio de Janeiro,MG,cust_61
+cust_62,uniq_62,42494,Brasília,RS,cust_62
+cust_63,uniq_63,49917,Rio de Janeiro,MG,cust_63
+cust_64,uniq_64,98575,Belo Horizonte,RJ,cust_64
+cust_65,uniq_65,16402,Belo Horizonte,RS,cust_65
+cust_66,uniq_66,76728,Belo Horizonte,RS,cust_66
+cust_67,uniq_67,42285,Rio de Janeiro,SP,cust_67
+cust_68,uniq_68,73198,São Paulo,MG,cust_68
+cust_69,uniq_69,50624,São Paulo,RJ,cust_69
+cust_70,uniq_70,88098,Rio de Janeiro,SP,cust_70
+cust_71,uniq_71,82885,Porto Alegre,RJ,cust_71
+cust_72,uniq_72,74247,Rio de Janeiro,MG,cust_72
+cust_73,uniq_73,30577,Porto Alegre,SP,cust_73
+cust_74,uniq_74,67346,Brasília,RJ,cust_74
+cust_75,uniq_75,96039,Belo Horizonte,SP,cust_75
+cust_76,uniq_76,37983,Rio de Janeiro,SP,cust_76
+cust_77,uniq_77,34331,Belo Horizonte,DF,cust_77
+cust_78,uniq_78,35633,São Paulo,MG,cust_78
+cust_79,uniq_79,16304,Brasília,RJ,cust_79
+cust_80,uniq_80,87145,Porto Alegre,DF,cust_80
+cust_81,uniq_81,82576,Belo Horizonte,RS,cust_81
+cust_82,uniq_82,98703,Porto Alegre,SP,cust_82
+cust_83,uniq_83,36049,Belo Horizonte,MG,cust_83
+cust_84,uniq_84,14811,Belo Horizonte,DF,cust_84
+cust_85,uniq_85,68014,Porto Alegre,RS,cust_85
+cust_86,uniq_86,44661,Rio de Janeiro,MG,cust_86
+cust_87,uniq_87,32214,Rio de Janeiro,SP,cust_87
+cust_88,uniq_88,28386,Rio de Janeiro,DF,cust_88
+cust_89,uniq_89,21473,São Paulo,DF,cust_89
+cust_90,uniq_90,76329,Belo Horizonte,DF,cust_90
+cust_91,uniq_91,62693,São Paulo,SP,cust_91
+cust_92,uniq_92,83002,Porto Alegre,DF,cust_92
+cust_93,uniq_93,41955,Brasília,RJ,cust_93
+cust_94,uniq_94,84547,Rio de Janeiro,RS,cust_94
+cust_95,uniq_95,54684,Porto Alegre,DF,cust_95
+cust_96,uniq_96,27536,São Paulo,DF,cust_96
+cust_97,uniq_97,97333,Belo Horizonte,SP,cust_97
+cust_98,uniq_98,26483,Brasília,MG,cust_98
+cust_99,uniq_99,12067,Porto Alegre,DF,cust_99
+cust_100,uniq_100,27293,Belo Horizonte,DF,cust_100
